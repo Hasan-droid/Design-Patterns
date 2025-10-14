@@ -5,3 +5,4 @@
 | Pattern Name | Purpose                                                                                                   |
 | ------------ | --------------------------------------------------------------------------------------------------------- |
 | Observer     | define one to many relationship so when when object's state changes , all it's dependencies will notified |
+| Iterator     | give a way to access elements of aggregated object sequentially                                           |
