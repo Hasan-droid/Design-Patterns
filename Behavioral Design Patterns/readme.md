@@ -8,3 +8,4 @@
 | Iterator     | give a way to access elements of aggregated object sequentially                                           |
 | Strategy     | lets you define a family of algorithm and make them interchangeable                                       |
 | Template     | to allow subclasses to change parts of the algorithm without altering its structure                       |
+| Command      | to encapsulate a request into an object                                                                   |
